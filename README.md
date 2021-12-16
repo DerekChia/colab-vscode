@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerekChia/colab-vscode/blob/main/colab_vscode.ipynb)
 
-Ever wanted to use VS Code to run your code instead of Google Colab? Now you can! Run the following [Colab notebook](<(https://colab.research.google.com/github/DerekChia/colab-vscode/blob/main/colab_vscode.ipynb)>) to generate a VS Code environment. You will have full terminal access to run your `Python` scripts together with `pip` to install your packages. Even better, you get to access GPU acceleration when you select the GPU runtime!
+Ever wanted to use VS Code to run your code instead of Google Colab? Now you can! Run the following [Colab notebook](https://colab.research.google.com/github/DerekChia/colab-vscode/blob/main/colab_vscode.ipynb) to generate a VS Code environment. You will have full terminal access to run your `Python` scripts together with `pip` to install your packages. Even better, you get to access GPU acceleration when you select the GPU runtime!
 
 ## Quick Start
 
