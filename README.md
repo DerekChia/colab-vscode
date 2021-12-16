@@ -6,7 +6,8 @@
 
 ## Quick Start
 
-1. Click on the Google Colab button below
+0. Get ready your Ngrok Authentication Token. Copy your [Ngrok Authentication token here](https://dashboard.ngrok.com/get-started/your-authtoken) or [sign up](https://dashboard.ngrok.com/signup) for a Ngrok account
+1. Click on the [Google Colab button](https://colab.research.google.com/github/DerekChia/colab-vscode/blob/main/colab_vscode.ipynb) below
 2. Run the cell with Ngrok authentication token
 3. There is no step 3!
 
