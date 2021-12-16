@@ -4,6 +4,8 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerekChia/colab-vscode/blob/main/colab_vscode.ipynb)
 
+Ever wanted to use VS Code to run your code instead of Google Colab? Now you can! Run the following Colab notebook to generate a VS Code environment for all your processing needs. Even better, you get to access GPU acceleration when you select the GPU runtime!
+
 ## Quick Start
 
 0. Get ready your Ngrok Authentication Token. Copy your [Ngrok Authentication token here](https://dashboard.ngrok.com/get-started/your-authtoken) or [sign up](https://dashboard.ngrok.com/signup) for a Ngrok account
