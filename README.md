@@ -28,7 +28,3 @@ Ever wanted to use VS Code to run your code instead of Google Colab? Now you can
 ![5](images/5.png)
 
 ![6](images/6.png)
-
-## License
-
-[MIT](LICENSE)
